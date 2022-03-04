@@ -16,5 +16,3 @@ test('character sort', () => {
   const result = sortA(characters);
   expect(result).toEqual(etalon);
 });
-
-
